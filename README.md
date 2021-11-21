@@ -13,8 +13,8 @@ Typography
 The Georgia (serif) font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Georgia (serif) is an elegant font, I feel this serif font suits the time period being discussed in the site content, it is ideal to use for responsive design as it is easy to read at different font sizes.
 Imagery
 The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The coloors fit the overall site colour palette. It also timeless, ethereal aesthetic.
-Wireframes
-Home Page Wireframe - 
+Wireframe
+PC Wireframe - 
 
 Mobile Wireframe - 
 
