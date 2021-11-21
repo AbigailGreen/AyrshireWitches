@@ -13,10 +13,18 @@ Typography
 The Georgia (serif) font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Georgia (serif) is an elegant font, I feel this serif font suits the time period being discussed in the site content, it is ideal to use for responsive design as it is easy to read at different font sizes.
 Imagery
 The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The coloors fit the overall site colour palette. It also timeless, ethereal aesthetic.
-Wireframe
+
+Wireframes
+
 PC Wireframe - 
+![Home](https://user-images.githubusercontent.com/90456415/142780184-ac85fac7-0a85-4eca-aad4-b5ff9050d7bb.png)              
+![Timeline](https://user-images.githubusercontent.com/90456415/142780175-9cbe8ff1-3b0d-4287-949f-4fe510b5c7eb.png)
+![Factoids](https://user-images.githubusercontent.com/90456415/142780191-f3271e48-acce-45fb-bf55-ca175f41f3ad.png)
 
 Mobile Wireframe - 
+![Mobile Home](https://user-images.githubusercontent.com/90456415/142780195-6e1af0de-c8f3-48e9-a02d-0866aab8b6e9.png)
+![Mobile  Timeline ](https://user-images.githubusercontent.com/90456415/142780198-3f01763e-1b88-4ee9-883a-efa04be0eb32.png)
+![Mobile Factoids](https://user-images.githubusercontent.com/90456415/142780203-9f631188-2637-4b4f-bce5-1008aad6a439.png)
 
 Features
 Responsive on all device sizes
