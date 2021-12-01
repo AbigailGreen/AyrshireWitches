@@ -8,11 +8,12 @@ As a First Time Visitor, I want to be able to easily navigate throughout the sit
 
 Design
 Colour Scheme
-To choose a colour scheme, I used mycolor.space webiste. I thought of a colour that may suit the theme of witches, choosing orange, as it has connetations of Halloween, pumpkins autumn, and is often paired with black for witch costumes. The website then generated colour palettes- I chose the Switch palette based on #D95E05 colour. This gave me four complimentary colours to incorpote in the site, which will provide a pleasant visual experience for viewers.
+To choose a colour scheme, I used mycolor.space webiste. I thought of a colour that may suit the theme of witches, choosing orange, as it has connetations of Halloween, pumpkins, autumn, and is often utilised in witch costumes and decor. The website then generated colour palettes- I chose the Switch palette based on #D95E05 colour. This gave me four complimentary colours to incorpote in the site, which will provide a pleasant visual experience for viewers.
 Typography
-The Georgia (serif) font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Georgia (serif) is an elegant font, I feel this serif font suits the time period being discussed in the site content, it is ideal to use for responsive design as it is easy to read at different font sizes.
+The Merriweather font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather is an elegant font, I feel this serif font suits the time period being discussed in the site content, it is ideal to use for responsive design as is designed for optimal readability on screens.
+Spectral is the font used for title and headings, it is elegant and looks good in headings and is also good for responsivity.
 Imagery
-The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The coloors fit the overall site colour palette. It also timeless, ethereal aesthetic.
+The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It also timeless, ethereal aesthetic.
 
 Wireframes
 
