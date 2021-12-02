@@ -64,6 +64,12 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text h1 {
+    color: #D95E05;
 }
 
 #hero-image {
@@ -87,4 +93,24 @@ h1, h2 {
     to{
         transform: scale(1.1);
     }
+}
+
+#cover-text {
+    font-size: 300%;
+    font-family: Spectral, sans-serif;
+    letter-spacing: 4px;
+
+    width: 900px;
+    height: 200px;
+
+    padding: 0;
+    border: 3px solid #3ABEAA;
+
+    background-color: rgba(223, 224, 223, .7);
+
+    bottom: 0px;
+    right: 30px;
+    left: 800px;
+
+    position: absolute;
 }
