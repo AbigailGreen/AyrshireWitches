@@ -6,7 +6,7 @@
    border: none;
 }
 
-body {background-color: #DFE0DF;}
+body {background-color: #3ABEAA;}
 
 body {
     font-family: Merriweather, sans-serif;
@@ -124,20 +124,47 @@ h1, h2 {
     margin-left: 30px;
 }
 
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #D95E05;
+    border-width: 1px;
+    margin-left: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg-1 {
+    background: url(../images/miriam-espacio-lxCm8DbY3kM-unsplash.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#circle-cover-bg-2 {
+    background: url(../images/petr-sidorov-tQNoMWOvhXs-unsplash.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
 #witch-1 {
     padding-top: 30px;
-    width: 48%;
+    padding-left: 300px;
+    width: 33%;
     float: left;
     margin-left: 5px;
-    background-color: rgba(58, 190, 170, .5);
+    background-color: rgba(223, 224, 223, .7);
+    text-align: center;
 }
 
 #witch-2 {
     padding-top: 30px;
-    width: 48%;
+    padding-right: 300px;    
+    width: 33%;
     float: right;
     margin-right: 5px;
-    background-color: rgba(58, 190, 170, .5);
+    background-color: rgba(223, 224, 223, .7);
+    text-align: center;
 }
 
 hr {
@@ -148,10 +175,11 @@ hr {
 
 .witch-1-heading {
     width: 60%;
-    float: left;
+    float: none;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    text-align: center;
 }
 
 .witch-2-heading {
@@ -160,4 +188,5 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    text-align: center;
 }
