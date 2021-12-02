@@ -26,7 +26,6 @@ h1, h2 {
 #logo {
     float: none;
     font-size: 280%;
-    text-decoration: none;
     }
 
 /* navigation links */
@@ -38,8 +37,7 @@ h1, h2 {
 
 #menu, #logo {
     line-height: 75px;
-    text-decoration: none;
-}
+    }
 
 #menu li {
     float: left;
@@ -58,4 +56,35 @@ h1, h2 {
 
 .active {
     background-color: #3ABEAA;
+}
+
+/*hero image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/content-pixie-pMKm9pybnTE-unsplash.jpg) no-repeat center center;
+
+    /* animates zoom effect on loading image */
+
+    animation-name: hero-zoom;
+    animation-duration: 9s;
+    animation-fill-mode: backwards;
+}
+
+/* creates the level of zoom for hero image */
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
