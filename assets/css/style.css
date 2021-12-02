@@ -106,8 +106,7 @@ h1, h2 {
     height: 200px;
 
     padding: 0;
-    border: 3px solid #3ABEAA;
-
+    
     background-color: rgba(223, 224, 223, .7);
 
     bottom: 0px;
@@ -147,6 +146,19 @@ h1, h2 {
     height: 100%;
     border-radius: 50%;
 }
+
+#circle-cover-bg-3 {
+    background: url(../images/natalia-y-x69K221AGHw-unsplash.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#circle-cover-bg-4 {
+    background: url(../images/elena-mozhvilo-J2_nIEkIpRM-unsplash.jpg) no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
 #witch-1 {
     padding-top: 30px;
     padding-left: 300px;
@@ -162,7 +174,27 @@ h1, h2 {
     padding-right: 300px;    
     width: 33%;
     float: right;
-    margin-right: 5px;
+    margin-right: 30px;
+    background-color: rgba(223, 224, 223, .7);
+    text-align: center;
+}
+
+#witch-3 {
+    padding-top: 30px;
+    padding-left: 300px;
+    width: 33%;
+    float: left;
+    margin-left: 5px;
+    background-color: rgba(223, 224, 223, .7);
+    text-align: center;
+}
+
+#witch-4 {
+    padding-top: 30px;
+    padding-right: 300px;    
+    width: 33%;
+    float: right;
+    margin-right: 30px;
     background-color: rgba(223, 224, 223, .7);
     text-align: center;
 }
@@ -183,6 +215,24 @@ hr {
 }
 
 .witch-2-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.witch-3-heading {
+    width: 60%;
+    float: none;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.witch-4-heading {
     width: 60%;
     float: right;
     line-height: 20px;
