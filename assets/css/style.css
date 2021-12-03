@@ -255,8 +255,23 @@ hr {
     padding-left: 300px;
 }
 
-#facebooklink {
-    width: 100px;
-    height: 100px;
-    margin-left: 500px;
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 5%;
+    color: #D95E05;
 }
