@@ -61,6 +61,7 @@ At the bottom of every page their is a footer which content is consistent throug
 
 Credits
 Code
+I used this site to aid in creating the timeline - https://www.w3schools.com/howto/howto_css_timeline.asp
 
 Content
 All content was written by the developer.
