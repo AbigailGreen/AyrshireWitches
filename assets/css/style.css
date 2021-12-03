@@ -249,6 +249,17 @@ hr {
     margin-left: 300px;
 }
 
+/* factoids */
+
+#factoids {
+  background-image: url(../images/edz-norton-QcY46wvhi_o-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+
 /* footer */
 
 footer {
