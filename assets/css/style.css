@@ -47,11 +47,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    background-color: #3ABEAA;
+    background-color: #DFE0DF;
 }
 
 .active {
-    background-color: #D95E05;
+    background-color: rgba(217, 94, 5, .3);
 }
 
 /*hero image */
@@ -112,7 +112,7 @@ h1, h2 {
 
 /* witches info */
 
-#witches {
+#witches, #factoids{
     padding-top: 100px;
     height: 600px;
     margin-left: 30px;
@@ -418,7 +418,7 @@ footer {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
-    }
+    }    
 
     #welcome {
         padding: 30px 0;
@@ -432,8 +432,7 @@ footer {
     }
 
     #map {
-      clear: both;
-      float: left;
+      clear: both;      
       margin-left: 30px;
       padding-top: 30px;        
     }
