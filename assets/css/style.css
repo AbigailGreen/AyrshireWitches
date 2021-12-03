@@ -289,6 +289,18 @@ footer {
 * {
     box-sizing: border-box;
   }
+
+  /* Media queries */
+
+  /* For larger to medium screens size from 1200px and down */
+  @media screen and (max-width: 1200px) {
+      #witches {
+          width: 65%;
+          height: 1200px;
+          margin: 0 auto;
+      }
+  }
+
   
   /* Timeline */
  
