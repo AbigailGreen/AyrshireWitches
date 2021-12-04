@@ -100,7 +100,9 @@ h1, h2 {
     width: 900px;
     height: 200px;
 
-    padding: 0;
+    padding: 60px 0 0 30px;
+
+    margin-left: 33px;
     
     background-color: rgba(223, 224, 223, .7);
 
@@ -112,7 +114,7 @@ h1, h2 {
 
 /* witches info */
 
-#witches, #factoids{
+#witches {
     padding-top: 100px;
     height: 600px;
     margin-left: 30px;
@@ -252,12 +254,65 @@ hr {
 /* factoids */
 
 #factoids {
-  background-image: url(../images/edz-norton-QcY46wvhi_o-unsplash.jpg);
+  background-image: url(../images/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
   overflow: hidden;
+}
+
+#factoids2 {
+  background-image: url(../images/strinoiu-marian-dzik2IQe6_Q-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+#factoids3 {
+  background-image: url(../images/cristian-palmer-QD0IqRI5HxY-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+#factoids div {
+  color: #DFE0DF;
+  background-color: rgba(0, 0, 0, .6);
+  width: 33.3%;
+  height: 600px;
+  float: left;  
+  text-align: center;
+  border: 2px solid #DFE0DF;
+}
+
+#factoids2 div {
+  color: #DFE0DF;
+  background-color: rgba(0, 0, 0, .6);
+  width: 33.3%;
+  height: 600px;
+  float: left;  
+  text-align: center;
+  border: 2px solid #DFE0DF;
+}
+
+#factoids3 div {
+  color: #DFE0DF;
+  background-color: rgba(0, 0, 0, .6);
+  width: 33.3%;
+  height: 600px;
+  float: left;  
+  text-align: center;
+  border: 2px solid #DFE0DF;
+}
+
+#factoids h2, #factoids2 h2, #factoids3 h2 {
+  padding: 100px 0 60px 0;
 }
 
 /* footer */
