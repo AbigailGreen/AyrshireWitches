@@ -512,6 +512,27 @@ footer {
       position: relative;
       max-width: 1200px;    
     }
+
+    #factoids > div {
+      width: 100%;
+      clear: both;
+      height: 600px;
+      padding: 0;
+    }
+
+    #factoids2 > div {
+      width: 100%;
+      clear: both;
+      height: 600px;
+      padding: 0;
+    }
+
+    #factoids3 > div {
+      width: 100%;
+      clear: both;
+      height: 600px;
+      padding: 0;
+    }
 }
 
 /* For medium screen sizes from 950px wide and down */
