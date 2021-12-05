@@ -380,6 +380,10 @@ hr {
   padding: 100px 0 60px 0;
 }
 
+#factoids p, #factoids2 p, #factoids3 p {
+  padding: 0 60px 0 60px;
+}
+
 
 
 
