@@ -184,7 +184,7 @@ h1, h2 {
 
 #witch-2 {
     padding-top: 30px;
-    padding-right: 300px;    
+    padding-left: 300px;    
     width: 48%;
     float: right;
     margin-right: 30px;
@@ -204,7 +204,7 @@ h1, h2 {
 
 #witch-4 {
     padding-top: 30px;
-    padding-right: 300px;    
+    padding-left: 300px;    
     width: 48%;
     float: right;
     margin-right: 30px;
@@ -224,7 +224,7 @@ h1, h2 {
 
 #witch-6 {
   padding-top: 30px;
-  padding-right: 300px;
+  padding-left: 300px;    
   width: 48%;
   float: right;
   margin-right: 30px;
@@ -249,7 +249,7 @@ hr {
 
 .witch-2-heading {
     width: 60%;
-    float: right;
+    float: none;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
@@ -267,7 +267,7 @@ hr {
 
 .witch-4-heading {
     width: 60%;
-    float: right;
+    float: none;
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
@@ -285,12 +285,14 @@ hr {
 
 .witch-6-heading {
   width: 60%;
-  float: right;
+  float: none;
   line-height: 20px;
   clear: both;
   margin-bottom: 50px;
   text-align: center;
 }
+
+/* References */
 
 #references-heading {
   padding-bottom: 15px;
@@ -301,6 +303,8 @@ hr {
   height: 300px;
   margin-left: 30px;
 }
+
+/* Map */
 
 #map-heading {
     padding-top: 30px;
@@ -545,9 +549,9 @@ footer {
     }
   }
 
-  /* For larger to medium screens size from 1200px wide and down */
+  /* For larger to medium screens size from 1400px wide and down */
 
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1400px) {
 
     #cover-text, #logo {
       left: 0;
@@ -558,9 +562,25 @@ footer {
         height: 1200px;
         margin: 0 auto;
     }   
+
+    .witch-1-heading, .witch-2-heading, .witch-3-heading, .witch-4-heading, .witch-5-heading, .witch-6-heading {
+      width: inherit;
+    }
+  
+  .witch-1-heading h2, .witch-2-heading h2, .witch-3-heading h2, .witch-4-heading h2, .witch-5-heading h2, .witch-6-heading h2 {
+      width: 100%;
+      text-align: center;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+  
+  .witch-1-heading p, .witch-2-heading p, .witch-3-heading p, .witch-4-heading p, .witch-5-heading p, .witch-6-heading p {
+      text-align: center;
+      padding: 0 20px;
+    }
     
     #circle-container {
-      margin-top: 15px;
+      margin-top: 30px;
     }
     
     #references {
@@ -573,7 +593,7 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
-        margin-top: 15px;
+        margin-top: 30px;
     }
 
     #map {
@@ -587,16 +607,7 @@ footer {
       border: 0;       
     }
 
-    hr {
-        display: none;
-    }
-
-    #timeline-photo {
-      margin: 0 auto; 
-      position: relative;
-      max-width: 1200px;    
-    }
-
+      
     #factoids > div {
       width: 100%;
       clear: both;
@@ -673,10 +684,10 @@ footer {
     padding-top: 30px; 
   }
 
-#map-heading {
-
+  hr {
+    display: none;
 }
 
-}
+
   
 
