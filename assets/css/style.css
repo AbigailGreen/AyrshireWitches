@@ -380,6 +380,9 @@ hr {
   padding: 100px 0 60px 0;
 }
 
+
+
+
 /* footer */
 
 footer {
@@ -413,10 +416,10 @@ footer {
 
     /* Timeline */
  
-  .timeline {
+  #timeline {
     position: relative;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 120px auto;
   }
   
   /* The actual timeline (the vertical ruler) */
