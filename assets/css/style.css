@@ -422,6 +422,8 @@ footer {
     box-sizing: border-box;
   }
 
+  /* Coding for the timeline was made using https://www.w3schools.com/howto/howto_css_timeline.asp and altered slightly for this site */
+
     /* Timeline */
  
   #timeline {
@@ -686,8 +688,6 @@ footer {
 
   hr {
     display: none;
+  }
+
 }
-
-
-  
-
