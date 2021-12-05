@@ -1,104 +1,179 @@
 # Witches of Ayrshire
 
-User Experience (UX)
-
-User stories
-
-First Time Visitor Goals
-
-As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the subject.
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-
-Design
-
-I wanted to create a simple website that provides information about a historical subject- witches. 
-As there is a lot of history in the area I was raised in, Ayrshire, I wanted to focus on this region.
+Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. 
+There is a page with a timeline of historical events, as well as a page with general facts about the subject of witchcraft.
 
 
-Colour Scheme
+## **User Experience (UX)**
 
-To choose a colour scheme, I used mycolor.space webiste. I thought of a colour that may suit the theme of witches, choosing orange, as it has connetations of Halloween, pumpkins, autumn, and is often utilised in witch costumes and decor. 
-The website then generated colour palettes- I chose the Switch palette based on #D95E05 colour. This gave me four complimentary colours to incorpote in the site, which will provide a pleasant visual experience for viewers.
 
-Typography
 
-The Merriweather font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather is an elegant font, I feel this serif font suits the time period being discussed in the site content, it is ideal to use for responsive design as is designed for optimal readability on screens.
+## Design
+
+
+The design is simplistic in style, with a main image header consistent on each page.
+The footer is also consistent across each page, providing simple icons for links.
+On each page is an easy to use navigation bar, which clearly identifies where each link will take you to on the website.
+
+## Colour Scheme
+
+To choose a colour scheme, the [ColorSpace](https://mycolor.space/) webiste was used.
+The colour was chosen initially as it suits the theme of witches, has connetations of Halloween, pumpkins, autumn, and is often utilised in witch costumes and decor. 
+The ColorSpace website then generated colour palettes- the Switch palette based on #D95E05 colour was chosen. This provided four complimentary colours to incorpote in the site, which provides a pleasant visual experience for viewers.
+
+## Typography
+
+The Merriweather font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Merriweather is an elegant font, this serif font suits the time period being discussed in the site content, it is ideal to use for responsive design as is designed for optimal readability on screens.
 
 Spectral is the font used for title and headings, it is elegant and looks good in headings and is also good for responsivity.
 
-Imagery
-The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It also timeless, ethereal aesthetic. https://unsplash.com/photos/pMKm9pybnTE
+## Imagery
 
-Wireframes
+The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It has a timeless, ethereal aesthetic. https://unsplash.com/photos/pMKm9pybnTE
 
-Wireframes were created using Balsamiq https://balsamiq.com/
+Smaller images were used on the homepage and the factoids page which fit into the aesthetic of the site and were relevant to the subject matter. They provide a pleasant visual experience.
 
-PC Wireframe - 
-![Home](https://user-images.githubusercontent.com/90456415/142780184-ac85fac7-0a85-4eca-aad4-b5ff9050d7bb.png)              
-![Timeline](https://user-images.githubusercontent.com/90456415/142780175-9cbe8ff1-3b0d-4287-949f-4fe510b5c7eb.png)
-![Factoids](https://user-images.githubusercontent.com/90456415/142780191-f3271e48-acce-45fb-bf55-ca175f41f3ad.png)
 
-Mobile Wireframe - 
-![Mobile Home](https://user-images.githubusercontent.com/90456415/142780195-6e1af0de-c8f3-48e9-a02d-0866aab8b6e9.png)
-![Mobile  Timeline ](https://user-images.githubusercontent.com/90456415/142780198-3f01763e-1b88-4ee9-883a-efa04be0eb32.png)
-![Mobile Factoids](https://user-images.githubusercontent.com/90456415/142780203-9f631188-2637-4b4f-bce5-1008aad6a439.png)
+# Features
 
-Features
+On each page is a clickable navigation bar which includes links to the Home page, the Timeline and the Factoids page.
+It is identical in each page to allow for easy navigation.
 
-It is a three page website.
-The homepage tells a brief story of six witches.
-There is an informative map below, as well as links to reference material.
+This section allows the user to navigate from page to page with ease, across all devices, without having to utilise the back button in their browser.
 
-Interactive elements
+On each page there is a footer with a social media links menu, featuring sinmple clickable icons.
 
-There is a navigation bar on each page linking to each of the three pages.
-There are social media links on the footer of each page as well as a home button.
+The home page has sections for information about six different witches, each with an image appropriate to the theme.
 
-Responsiveness
+There is also a map image with arrows pointing to the location of each witch.
+
+A reference list is provided, each is in link form to allow the user to view the material in a seperate tab.
+
+The timeline page is a simple vertical branching timeline design, with notable events and their dates. It moves from most recent events at the top chronologically to the furthest back in history event at the bottom.
+
+The factoids page has nine sections each with a different general fact regarding witchcraft. These are in three groups of three on PC, with three releated images used as a background for each group.
+
+# Responsiveness
 
 The website is responsive to all media sizes. 
 
+# Technologies Used
 
-Technologies Used
+## Languages Used
 
-Languages Used
-HTML5
-CSS3
+**HTML5**
 
-Frameworks, Libraries & Programs Used
+**CSS3**
+
+# Frameworks, Libraries & Programs Used
+
+## GitPod 
 
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-GitHub:
-GitHub is used to store the projects code after being pushed from Git.
-Balsamiq:
-Balsamiq was used to create the wireframes during the design process.
-Testing
+
+## GitHub:
+GitHub was used to store the projects code after being pushed from Git.
+
+## Wireframes
+
+Wireframes were created using [Balsamiq](https://balsamiq.com/) during the design process.
+
+PC Wireframes
+
+1. [PC Homepage wireframe](wireframes/pchome.png)
+2. [PC Timeline wireframe](wireframes/pctimeline.png)
+3. [PC Factoids wireframe](wireframes/pcfactoids.png)
+
+Mobile Wireframes:
+
+1. [Mobile Homepage wireframe](wireframes/mobilehome.png)
+2. [Mobile Timeline wireframe](wireframes/mobiletimeline.png)
+3. [Mobile Factoids wireframe](wireframes/mobilefactoids.png)
+
+As the project was built, the initial visualisation was adjusted.
+
+## Google Fonts:
+Google fonts were used to import the 'Merriweather' and 'Spectral' fonts into the style.css file which is used on all pages throughout the project.
+
+## Font Awesome:
+Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+## Paint 3D:
+Paint 3D was used to add names of witches and arrows to the map image.
+
+
+# Testing
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 W3C Markup Validator - Results
+1. [Homepage](validation-results/index.html-validationresults.PNG)
+2. [Timeline](validation-results/timeline-validationresults.PNG)
+3. [Factoids](validation-results/factoids-validationresults.PNG)
+
 W3C CSS Validator - Results
 
-The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-At the bottom of every page their is a footer which content is consistent throughout all pages.
+1. [CSS](validation-results/cssvalidationresults.PNG)
 
-Credits
 
-Code
+# Deployment
 
-I used this site to aid in creating the timeline - https://www.w3schools.com/howto/howto_css_timeline.asp
+## GitHub Pages
+The project was deployed to GitHub Pages using the following steps...
 
-Content
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
-All content was researched by the developer, with links to the reference documents on th ehomepage.
+## Forking the GitHub Repository
 
-Media
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-All Images were sourced from unsplash.com, a source for freely-usable images. 
-Main header image credit elia-pellegrini-VokN6qsZyOk-unsplash
-Acknowledgements
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
 
-My Mentor for continuous helpful feedback.
+## Making a Local Clone
+1. Log in to GitHub and locate the GitHub Repository
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3 
 
-Tutor support at Code Institute for their support.
+[git clone] https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+7. Press Enter. Your local clone will be created.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+
+
+# Credits
+
+## Code
+
+Code from [W3Schhols](https://www.w3schools.com/howto/howto_css_timeline.asp) website was used to aid in creating the timeline. 
+
+## Content
+
+All content was researched by the developer, with links to the reference documents on the homepage.
+
+## Media
+
+All Images were sourced from [Unsplash](unsplash.com), a site that provides freely-usable images. 
+
+## Acknowledgements
+
+My Mentor for continuous helpful advice, feedback, patience and kindness.
+
+Tutor support at Code Institute for their helpful advice and support.
 
 
