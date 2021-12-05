@@ -124,7 +124,7 @@ h1, h2 {
   padding-bottom: 30px;
 }
 
-#circle-container {
+#circle-container-1, #circle-container-2, #circle-container-3, #circle-container-4, #circle-container-5, #circle-container-6 {
     width: 300px;
     height: 300px;
     padding: 30px;
@@ -581,7 +581,7 @@ footer {
       padding: 0 20px;
     }
     
-    #circle-container {
+    #circle-container-1, #circle-container-2, #circle-container-3, #circle-container-4, #circle-container-5, #circle-container-6 {
       margin-top: 30px;
     }
     
