@@ -171,6 +171,7 @@ h1, h2 {
 #witch-1 {
     padding-top: 30px;
     padding-left: 300px;
+    padding-bottom: 80px;
     width: 48%;
     float: left;
     margin-left: 5px;
@@ -180,7 +181,7 @@ h1, h2 {
 
 #witch-2 {
     padding-top: 30px;
-    padding-left: 300px;    
+    padding-left: 300px;        
     width: 48%;
     float: right;
     margin-right: 30px;
@@ -200,7 +201,8 @@ h1, h2 {
 
 #witch-4 {
     padding-top: 30px;
-    padding-left: 300px;    
+    padding-left: 300px;
+    padding-bottom: 104px;    
     width: 48%;
     float: right;
     margin-right: 30px;
@@ -294,6 +296,13 @@ hr {
   padding-bottom: 15px;
 }
 
+#references li {
+  text-decoration: none;
+  color: #D95E05;
+  list-style-type: none;
+  text-decoration: #D95E05;
+}
+
 #references {
   padding-top: 100px;
   height: 300px;
@@ -302,19 +311,18 @@ hr {
 
 /* Map */
 
-#map-heading {
-    padding-top: 30px;
-    padding-bottom: 15px;
-    margin-bottom: 30px;
-}
-
 #map {
     background: url(../images/ayrmap.PNG) no-repeat center center;
     height: 1200px;
     width: 1200px; 
     margin-left: 30px;
-        
+    clear: both;   
 } 
+
+#map-heading {
+  clear: both;
+  margin-left: 30px;
+}
 
 /* factoids */
 
