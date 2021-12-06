@@ -4,16 +4,13 @@ https://abigailgreen.github.io/AyrshireWitches/
 
 ![alt text](am-i-responsive-image/amiresponsivepp1.PNG)
 
-Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. This site is for anyone with an interest in witches, witch trials or mystical medieval history of the region. The homepage describes six different witches from the area, and their trials.
+Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. This site is for anyone with an interest in witches, witch trials or the mystical medieval history of the region. The homepage describes six different witches from the area, and their trials.
 There is a page with a timeline of historical events, as well as a page with general facts about the subject of witchcraft.
 
 
 ## **User Experience (UX)**
 
-
-
 ## Design
-
 
 The design is simplistic in style, with a main header image consistent on each page.
 The footer is also consistent across each page, providing simple icons for links.
@@ -38,7 +35,6 @@ The main image at the top of each page is designed to convey the subject matter,
 Smaller images were used on the homepage and the factoids page which fit into the aesthetic of the site and were relevant to the subject matter. They provide a pleasant visual experience.
 
 Font awesome icons relevant to the subject matter were used to add visual appeal.
-
 
 # Features
 
@@ -128,10 +124,9 @@ Font Awesome was used on all pages throughout the website to add icons for aesth
 ## Paint 3D:
 Paint 3D was used to add names of witches and arrows to the map image.
 
-
 # Testing
 
-This site was tested in Chrome and Microsoft Edge on PC, as well as iPad and iPhone XR. 
+This site was tested in Chrome and Microsoft Edge on PC, as well as an iPad and iPhone XR. 
 
 The site was found to be appearing correctly, and was responsive to changing screen sizes when using the devtools device toolbar.
 
@@ -159,14 +154,16 @@ No errors or warnings were returned for the CSS validation.
 
 ![alt text](validation-results/lighthouse-ss.PNG)
 
+All three pages of the site scored 100 for accessibility.
+
 ### Bugs
 Initial Lighthouse testing via Devtools revealed that accessibility was affected by the light grey background colour of the headings on the homepage- resulting in a score of 96. 
 
 Initial lighthouse testing also showed that performance could be improved by compressing the main header image.
 
 ### Solved bugs
-Accesibility was improved by altering the background colour to white.
-Upon making this change, Lighthouse returned accessibility score of 100 for all three pages of the site.
+Accesibility was improved by altering the background colour of the headings on the homepage to white.
+Upon making this change, Lighthouse returned accessibility score of 100. 
 
 Performance was improved by compressing the main header image.
 
@@ -183,43 +180,17 @@ The project was deployed to GitHub Pages using the following steps...
 1. Log in to GitHub and locate the GitHub Repository
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown called "None" and select "Main".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
-
-## Forking the GitHub Repository
-
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-1. Log in to GitHub and locate the GitHub Repository
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
-
-## Making a Local Clone
-1. Log in to GitHub and locate the GitHub Repository
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type git clone, and then paste the URL you copied in Step 3 
-
-[git clone] https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-
-7. Press Enter. Your local clone will be created.
-
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-
 
 # Credits
 
 ## Code
 
-Code from [W3Schhols](https://www.w3schools.com/howto/howto_css_timeline.asp) website was used to aid in creating the timeline. 
+Code from [W3Schhols](https://www.w3schools.com/howto/howto_css_timeline.asp) website was used to aid in creating the timeline.
+
+Code from Code Institute [Love Running project](https://github.com/Code-Institute-Org/love-running-2.0) was used to make the social media links and background images on the Factoids page.
 
 ## Content
 
@@ -227,12 +198,38 @@ All content was researched by the developer, with links to the reference documen
 
 ## Media
 
+The Ayr map is a screenshot of GoogleMaps edited by the developer.
+
 All Images were sourced from [Unsplash](unsplash.com), a site that provides freely-usable images. 
+
+Credit goes to the artists: 
+
+
+[Content Pixie- Main header image](https://unsplash.com/@contentpixie)
+
+[Ashley Ibarra](https://unsplash.com/@beautifulbones)
+
+[Cristian Palmer](https://unsplash.com/@cristianpalmer)
+
+[Dmitry Vechorko](https://unsplash.com/@vechorko)
+
+[Elena Mozhvilo](https://unsplash.com/@miracleday)
+
+[Jeremy Wong Weddings](https://unsplash.com/@jeremywongweddings)
+
+[Miriam Espacio](https://unsplash.com/@miriamespacio)
+
+[Natalia Y](https://unsplash.com/@foxfox)
+
+[Petr Sidorov](https://unsplash.com/@m_malkovich)
+
+[Strinoiu Marian](https://unsplash.com/@strinoiumarian)
+
 
 ## Acknowledgements
 
-My Mentor for continuous helpful advice, feedback, patience and kindness.
+My Mentor for continuous support, helpful advice, feedback, patience and kindness.
 
-Tutor support at Code Institute for their helpful advice and support.
+Tutor support at Code Institute for their ongoing advice and support.
 
 
