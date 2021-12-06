@@ -1,6 +1,10 @@
 # Witches of Ayrshire
 
-Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. 
+https://abigailgreen.github.io/AyrshireWitches/
+
+![alt text](am-i-responsive-image/amiresponsivepp1.PNG)
+
+Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. This site is for anyone with an interest in witches, witch trials or mystical medieval history of the region. The homepage describes six different witches from the area, and their trials.
 There is a page with a timeline of historical events, as well as a page with general facts about the subject of witchcraft.
 
 
@@ -51,13 +55,34 @@ There is also a map image with arrows pointing to the location of each witch.
 
 A reference list is provided, each is in link form to allow the user to view the material in a seperate tab.
 
+### Homepage Screenshots:
+1. [Homepage Screenshot 1](website-screenshots/homepage-screenshot1.png)
+2. [Homepage Screenshot 2](website-screenshots/homepage-screenshot2.png)
+3. [Homepage Screenshot 3](website-screenshots/homepage-screenshot3.png)
+4. [Homepage Screenshot 4](website-screenshots/homepage-screenshot4.png)
+5. [Homepage Screenshot 5](website-screenshots/homepage-screenshot5.png)
+
 The timeline page is a simple vertical branching timeline design, with notable events and their dates. It moves from most recent events at the top chronologically to the furthest back in history event at the bottom.
 
-The factoids page has nine sections each with a different general fact regarding witchcraft. These are in three groups of three on PC, with three releated images used as a background for each group.
+### Timeline Screenshots
+
+1. [Timeline Screenshot 1](website-screenshots/timeline-screenshot1.PNG)
+2. [Timeline Screenshot 2](website-screenshots/timeline-screenshot2.PNG)
+3. [Timeline Screenshot 3](website-screenshots/timeline-screenshot3.PNG)
+
+The factoids page has nine sections each with a different general fact regarding witchcraft. These are in three groups of three on PC, with three releated images used as a background image for each group.
+
+### Factoids Screenshots
+
+1. [Factoids Screenshot 1](website-screenshots/factoids-screenshot1.PNG)
+2. [Factoids Screenshot 2](website-screenshots/factoids-screenshot2.PNG)
+3. [Factoids Screenshot 3](website-screenshots/factoids-screenshot3.PNG)
 
 # Responsiveness
 
 The website is responsive to all media sizes. 
+
+![alt text](am-i-responsive-image/amiresponsivepp1.PNG)
 
 # Technologies Used
 
@@ -106,28 +131,51 @@ Paint 3D was used to add names of witches and arrows to the map image.
 
 # Testing
 
+This site was tested in Chrome and Microsoft Edge on PC, as well as iPad and iPhone XR. 
+
+The site was found to be appearing correctly, and was responsive to changing screen sizes when using the devtools device toolbar.
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-W3C Markup Validator - Results
+### W3C Markup Validator - Results
 1. [Homepage](validation-results/index.html-validationresults.PNG)
 2. [Timeline](validation-results/timeline-validationresults.PNG)
 3. [Factoids](validation-results/factoids-validationresults.PNG)
 
-The index.html validation results returned a warning, indicating that the map section does not have a heading. This is a warning, not an error, so the code was not adjusted.
+### Bugs
+The index.html validation results returned a warning, indicating that the map section does not have a heading. This is a warning, not an error, therefore the code was not adjusted.
 
 No errors or warnings were returned from timeline.html validation.
 
 No errors or warnings were returned from factoids.html validation.
 
-W3C CSS Validator - Results
+### W3C CSS Validator - Results
 
 1. [CSS](validation-results/cssvalidationresults.PNG)
 
 No errors or warnings were returned for the CSS validation.
 
+## Accesibility
 
+![alt text](validation-results/lighthouse-ss.PNG)
 
-# Deployment
+### Bugs
+Initial Lighthouse testing via Devtools revealed that accessibility was affected by the light grey background colour of the headings on the homepage- resulting in a score of 96. 
+
+Initial lighthouse testing also showed that performance could be improved by compressing the main header image.
+
+### Solved bugs
+Accesibility was improved by altering the background colour to white.
+Upon making this change, Lighthouse returned accessibility score of 100 for all three pages of the site.
+
+Performance was improved by compressing the main header image.
+
+### Lighthouse testing screenshots
+
+1. [Homepage Accesibility Score 100](validation-results/lighthouse-test-results-homepage.PNG)
+2. [Timeline Accesibility Score 100](validation-results/lighthouse-test-results-timeline.PNG)
+3. [Facoids accesibility Score 100](validation-results/lighthouse-test-results-factoids.PNG)
+
 
 ## GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
