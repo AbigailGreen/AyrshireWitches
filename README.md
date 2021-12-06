@@ -43,7 +43,7 @@ It is identical in each page to allow for easy navigation.
 
 This section allows the user to navigate from page to page with ease, across all devices, without having to utilise the back button in their browser. Styling allows the current page to be highlighted in order that the viewer can identify which site page they are currently viewing.
 
-On each page there is a footer with a social media links menu, featuring sinmple clickable icons.
+On each page there is a footer with a social media links menu, featuring sinmple clickable icons. There is also a home button icon which will return the viewer to the top of the home page to save scrolling up.
 
 The home page has sections for information about six different witches, each with an image appropriate to the theme.
 
@@ -113,11 +113,18 @@ W3C Markup Validator - Results
 2. [Timeline](validation-results/timeline-validationresults.PNG)
 3. [Factoids](validation-results/factoids-validationresults.PNG)
 
-The index.html validation results returned a warning, indicating that the map section does not have a heading. This is a warning, not an error, so the code was not adjusted..
+The index.html validation results returned a warning, indicating that the map section does not have a heading. This is a warning, not an error, so the code was not adjusted.
+
+No errors or warnings were returned from timeline.html validation.
+
+No errors or warnings were returned from factoids.html validation.
 
 W3C CSS Validator - Results
 
 1. [CSS](validation-results/cssvalidationresults.PNG)
+
+No errors or warnings were returned for the CSS validation.
+
 
 
 # Deployment

@@ -122,10 +122,6 @@ h1, h2 {
   margin-left: 30px;
 }
 
-#witch-section-heading {
-  padding-bottom: 30px;
-}
-
 #circle-container-1, #circle-container-2, #circle-container-3, #circle-container-4, #circle-container-5, #circle-container-6 {
     width: 300px;
     height: 300px;
@@ -180,7 +176,7 @@ h1, h2 {
     width: 47%;
     float: left;
     margin-left: 5px;
-    background-color: rgba(223, 224, 223, .7);
+    background-color: white;
     text-align: center;
 }
 
@@ -190,7 +186,7 @@ h1, h2 {
     width: 47%;
     float: right;
     margin-right: 30px;
-    background-color: rgba(223, 224, 223, .7);
+    background-color: white;
     text-align: center;
 }
 
@@ -200,7 +196,7 @@ h1, h2 {
     width: 47%;
     float: left;
     margin-left: 5px;
-    background-color: rgba(223, 224, 223, .7);
+    background-color: white;
     text-align: center;
 }
 
@@ -210,7 +206,7 @@ h1, h2 {
     width: 47%;
     float: right;
     margin-right: 30px;
-    background-color: rgba(223, 224, 223, .7);
+    background-color: white;
     text-align: center;
 }
 
@@ -221,7 +217,7 @@ h1, h2 {
   width: 47%;
   float: left;
   margin-left: 5px;
-  background-color: rgba(223, 224, 223, .7);
+  background-color: white;
   text-align: center;
 }
 
@@ -232,7 +228,7 @@ h1, h2 {
   width: 47%;
   float: right;
   margin-right: 30px;
-  background-color: rgba(223, 224, 223, .7);
+  background-color: white;
   text-align: center;
 }
 
@@ -300,6 +296,7 @@ hr {
 
 #references-heading {
   padding-bottom: 15px;
+  background-color: white;
 }
 
 #references li {
@@ -328,6 +325,7 @@ hr {
 #map-heading {
   clear: both;
   margin-left: 30px;
+  background-color: white;
 }
 
 /* factoids */
@@ -397,9 +395,6 @@ hr {
 #factoids p, #factoids2 p, #factoids3 p {
   padding: 0 60px 0 60px;
 }
-
-
-
 
 /* footer */
 
