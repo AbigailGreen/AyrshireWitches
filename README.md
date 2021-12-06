@@ -11,15 +11,15 @@ There is a page with a timeline of historical events, as well as a page with gen
 ## Design
 
 
-The design is simplistic in style, with a main image header consistent on each page.
+The design is simplistic in style, with a main header image consistent on each page.
 The footer is also consistent across each page, providing simple icons for links.
 On each page is an easy to use navigation bar, which clearly identifies where each link will take you to on the website.
 
 ## Colour Scheme
 
 To choose a colour scheme, the [ColorSpace](https://mycolor.space/) webiste was used.
-The colour was chosen initially as it suits the theme of witches, has connetations of Halloween, pumpkins, autumn, and is often utilised in witch costumes and decor. 
-The ColorSpace website then generated colour palettes- the Switch palette based on #D95E05 colour was chosen. This provided four complimentary colours to incorpote in the site, which provides a pleasant visual experience for viewers.
+The colour orange was chosen initially as it suits the theme of witches, has connetations of Halloween, pumpkins, autumn, and is often utilised in witch costumes and decor. 
+The ColorSpace website then generated colour palettes- the Switch palette based on #D95E05 colour was chosen. This provided four complimentary colours to incorpote in the site, which provides a pleasant visual experience for viewers. 
 
 ## Typography
 
@@ -29,9 +29,11 @@ Spectral is the font used for title and headings, it is elegant and looks good i
 
 ## Imagery
 
-The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It has a timeless, ethereal aesthetic. https://unsplash.com/photos/pMKm9pybnTE
+The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It has a classic timeless feel and matches the theme of the site. https://unsplash.com/photos/pMKm9pybnTE
 
 Smaller images were used on the homepage and the factoids page which fit into the aesthetic of the site and were relevant to the subject matter. They provide a pleasant visual experience.
+
+Font awesome icons relevant to the subject matter were used to add visual appeal.
 
 
 # Features
@@ -39,7 +41,7 @@ Smaller images were used on the homepage and the factoids page which fit into th
 On each page is a clickable navigation bar which includes links to the Home page, the Timeline and the Factoids page.
 It is identical in each page to allow for easy navigation.
 
-This section allows the user to navigate from page to page with ease, across all devices, without having to utilise the back button in their browser.
+This section allows the user to navigate from page to page with ease, across all devices, without having to utilise the back button in their browser. Styling allows the current page to be highlighted in order that the viewer can identify which site page they are currently viewing.
 
 On each page there is a footer with a social media links menu, featuring sinmple clickable icons.
 
@@ -110,6 +112,8 @@ W3C Markup Validator - Results
 1. [Homepage](validation-results/index.html-validationresults.PNG)
 2. [Timeline](validation-results/timeline-validationresults.PNG)
 3. [Factoids](validation-results/factoids-validationresults.PNG)
+
+The index.html validation results returned a warning, indicating that the map section does not have a heading. This is a warning, not an error, so the code was not adjusted..
 
 W3C CSS Validator - Results
 
