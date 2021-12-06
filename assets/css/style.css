@@ -110,10 +110,22 @@ h1, h2 {
 
 /* witches info */
 
-#witches-1, #witches-2, #witches-3 {
+#witches-1 {
     padding-top: 100px;
-    height: 600px;
+    height: 1200px;
     margin-left: 30px;
+}
+
+#witches-2 {
+  padding-top: 100px;
+  height: 1400px;
+  margin-left: 30px;
+}
+
+#witches-3 {
+  padding-top: 100px;
+  height: 1200px;
+  margin-left: 30px;
 }
 
 #witch-section-heading {
@@ -125,7 +137,7 @@ h1, h2 {
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #D95E05;
+    border-color: #3ABEAA;
     border-width: 1px;
     margin-left: 150px;
     border-radius: 50%;
@@ -171,7 +183,6 @@ h1, h2 {
 #witch-1 {
     padding-top: 30px;
     padding-left: 300px;
-    padding-bottom: 80px;
     width: 48%;
     float: left;
     margin-left: 5px;
@@ -202,7 +213,6 @@ h1, h2 {
 #witch-4 {
     padding-top: 30px;
     padding-left: 300px;
-    padding-bottom: 104px;    
     width: 48%;
     float: right;
     margin-right: 30px;
