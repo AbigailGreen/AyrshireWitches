@@ -92,20 +92,14 @@ h1, h2 {
     font-size: 300%;
     font-family: Spectral, sans-serif;
     letter-spacing: 4px;
-
     width: 900px;
     height: 200px;
-
     padding: 60px 0 0 30px;
-
     margin-left: 33px;
-    
-    background-color: rgba(223, 224, 223, .7);
-
     bottom: 0px;
     left: 30px;
-
     position: absolute;
+    background-color: rgba(223, 224, 223, .5);
 }
 
 /* witches info */
