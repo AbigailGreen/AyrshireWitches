@@ -4,8 +4,21 @@ https://abigailgreen.github.io/AyrshireWitches/
 
 ![alt text](am-i-responsive-image/amiresponsivepp1.PNG)
 
-Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. This site is for anyone with an interest in witches, witch trials or the mystical medieval history of the region. The homepage describes six different witches from the area, and their trials.
-There is a page with a timeline of historical events, as well as a page with general facts about the subject of witchcraft.
+Witches of Ayrshire is an informative website. It aims to provide the visitor with interesting information regarding the subject matter of witches and witch trials in the region of Ayrshire, Scotland. 
+
+This site is for anyone with an interest in witches, witch trials or the mystical medieval history of the region. 
+
+Six different witches from the area and brief recounts of their trials are described on the homepage.
+
+There is a timeline page showing historical events from modern times through to the past, as well as a page with general facts about the subject of witchcraft.
+
+There is a form for the user to complete and submit on the homepage, if the user is interested in joining a mailing list.
+
+There are links to references and further reading material on the homepage.
+
+Social media links and a home button are on the footer of each page.
+
+
 
 
 ## **User Experience (UX)**
@@ -48,6 +61,8 @@ On each page there is a footer with a social media links menu, featuring sinmple
 The home page has sections for information about six different witches, each with an image appropriate to the theme.
 
 There is also a map image with arrows pointing to the location of each witch.
+
+There is a form to join a mailing list for the user to interact with.
 
 A reference list is provided, each is in link form to allow the user to view the material in a seperate tab.
 
@@ -129,6 +144,8 @@ Paint 3D was used to add names of witches and arrows to the map image.
 This site was tested in Chrome and Microsoft Edge on PC, as well as an iPad and iPhone XR. 
 
 The site was found to be appearing correctly, and was responsive to changing screen sizes when using the devtools device toolbar.
+
+The form functions as it should, it requires entries in the name and email fields, it requires an email in the email field. The clear form button works. The submit button works, and opens in a new browser page.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
