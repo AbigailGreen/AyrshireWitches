@@ -12,7 +12,7 @@ Six different witches from the area and brief recounts of their trials are descr
 
 There is a timeline page showing historical events from modern times through to the past, as well as a page with general facts about the subject of witchcraft.
 
-There is a form for the user to complete and submit on the homepage, if the user is interested in joining a mailing list.
+There is a form for the user to interaact with by entering details and submitting them on the homepage.
 
 There are links to references and further reading material on the homepage.
 
@@ -25,15 +25,19 @@ Social media links and a home button are on the footer of each page.
 
 ## Design
 
-The design is simplistic in style, with a main header image consistent on each page.
-The footer is also consistent across each page, providing simple icons for links.
-On each page is an easy to use navigation bar, which clearly identifies where each link will take you to on the website.
+The design is simplistic in style. A three page website with a main header image consistent on each page.
+
+The footer is also consistent across each page, providing simple icons for homepage and social media links.
+
+On each page is an easy to use navigation bar, which clearly identifies where each link will take you to on the website, as well as which page they are currently on..
+
+There is an  interactive form on the homepage.
 
 ## Colour Scheme
 
 To choose a colour scheme, the [ColorSpace](https://mycolor.space/) webiste was used.
 The colour orange was chosen initially as it suits the theme of witches, has connetations of Halloween, pumpkins, autumn, and is often utilised in witch costumes and decor. 
-The ColorSpace website then generated colour palettes- the Switch palette based on #D95E05 colour was chosen. This provided four complimentary colours to incorpote in the site, which provides a pleasant visual experience for viewers. 
+The ColorSpace website then generated colour palettes- the Switch palette based on #D95E05 colour was chosen. This provided four complimentary colours to incorpote in the site, which provides a pleasant visual experience for viewers. The colours are orange, pale grey, teal and burgandy. 
 
 ## Typography
 
@@ -43,11 +47,13 @@ Spectral is the font used for title and headings, it is elegant and looks good i
 
 ## Imagery
 
-The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It has a classic timeless feel and matches the theme of the site. https://unsplash.com/photos/pMKm9pybnTE
+The main image at the top of each page is designed to convey the subject matter, without being overpowering or detracting from site content. The colours fit the overall site colour palette. It has a classic timeless feel and matches the theme of the site. 
 
 Smaller images were used on the homepage and the factoids page which fit into the aesthetic of the site and were relevant to the subject matter. They provide a pleasant visual experience.
 
 Font awesome icons relevant to the subject matter were used to add visual appeal.
+
+![alt text](website-screenshots/fontawesomeicons.PNG)
 
 # Features
 
@@ -56,15 +62,31 @@ It is identical in each page to allow for easy navigation.
 
 This section allows the user to navigate from page to page with ease, across all devices, without having to utilise the back button in their browser. Styling allows the current page to be highlighted in order that the viewer can identify which site page they are currently viewing.
 
+![alt text](website-screenshots/navbar.PNG)
+
+Each page features the same header image, the cover text on this header is also a clickable link to return the user to the homepage.
+
+![alt text](website-screenshots/headerimage.PNG)
+
 On each page there is a footer with a social media links menu, featuring sinmple clickable icons. There is also a home button icon which will return the viewer to the top of the home page to save scrolling up.
 
-The home page has sections for information about six different witches, each with an image appropriate to the theme.
+![alt text](website-screenshots/footer.PNG)
 
-There is also a map image with arrows pointing to the location of each witch.
+The home page has sections for information about six different witches, each with an icon and background image appropriate to the theme.
+
+![alt text](website-screenshots/witch.PNG)
+
+There is a map image with arrows pointing to the location of each witch.
+
+![alt text](website-screenshots/map.PNG)
 
 There is a form to join a mailing list for the user to interact with.
 
-A reference list is provided, each is in link form to allow the user to view the material in a seperate tab.
+![alt text](website-screenshots/form.PNG)
+
+A reference list is provided, each is in link form and opens in a new tab to avoid the viewer having to leave the site.
+
+![alt text](website-screenshots/references.PNG)
 
 ### Homepage Screenshots:
 1. [Homepage Screenshot 1](website-screenshots/homepage-screenshot1.png)
